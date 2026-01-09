@@ -2,7 +2,7 @@
 You can find well written notes by me inside this repository
 HTML5 & CSS Handwritten Notes. Which covers the following topics
 1. **Introduction to Frontend Development and**
-**Fundamentals of HTML**
+2. **Fundamentals of HTML**
 3. Basic Tags
 4. List
    i. Unordered List
