@@ -1,4 +1,4 @@
-# My-Notes
+# HTML5 7 CSS Notes
 You can find well written notes by me inside this repository
 HTML5 & CSS Handwritten Notes. Which covers the following topics
 1. Introduction to Frontend Development
